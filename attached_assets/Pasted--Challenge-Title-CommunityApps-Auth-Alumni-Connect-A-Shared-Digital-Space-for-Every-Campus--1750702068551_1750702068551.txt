@@ -1,0 +1,91 @@
+
+Challenge Title [#CommunityApps & #Auth] 
+Alumni Connect -A Shared Digital Space for Every Campus 
+Challenge Description 
+Many colleges lack a dedicated space where alumni and students can interact 
+meaningfully. Alumni Connect solves that. 
+Your challenge is to build a lightweight, user-friendly platform where students and alumni 
+from the same college can connect, share updates, advice, and job opportunities — allin 
+one shared space per college. 
+This project focuses on college-level community walls without complex approvals, 
+making it ideal for newer developers — yet scalable enough for real-world usage. 
+Core Features (Must-Have) 
+§ 
+2 
+Fes 
+College-Specific Communities 
+e 
+e 
+e 
+e 
+e 
+e 
+On sign-up, users select their college 
+Each college gets its own separate feed 
+Simple Role-Based Profiles 
+User selects: Student or Alumnus 
+Users can only see and post within their selected college’s space 
+Profile includes name, batch, department 
+Posting System 
+Text post (optionally with image) 
+e 
+Tags foreach post: “Jobs”, “Advice”, “Memories”, etc.
+e 
+Like 
+& 
+comment support 
+College Wall (Feed) 
+e 
+e 
+Scrollable feed of posts per college 
+Filter by tag or newest 
+Bonus Features (Optional — For Extra Points) 
+Cy 
+Email or Admin-Based Verification 
+e 
+e 
+@ 
+Verify student/alumni via college email domain 
+Orsimulate basic verification by showing “Pending Verification” tag until approved 
+by an admin 
+Department Filter 
+e 
+Fe 
+Let users filter posts by department (e.g., CSE, ECE) 
+Job Post Tab 
+e 
+@ 
+Dedicated section for alumni to post jobs/internships for students 
+Simple Chat / Mentorship Request 
+e 
+Allow students to DM alumni or request guidance via a form 
+Event Announcements 
+e 
+@ 
+Add a feature to create & share upcoming webinars, meetups, or alumni events 
+Searchable Directory 
+e 
+Find people by batch, name, department, or role
+Judging Criteria 
+e 
+e 
+e 
+e 
+Clarity & Usability: Easy to register, post, and navigate college feed 
+Well-Segregated Logic: No mixing between different college spaces 
+Clean Feed UX: Posts, tags, comments, and roles are clearly displayed 
+Thoughtful Bonus Features: Do optional features enhance the real-world impact? 
+Why Build This? 
+Alumni Connect Lite gives you the chance to build something deeply meaningful but 
+technically approachable. It mirrors what many campuses need — and can be built ina 
+weekend with the right structure. 
+Great for beginner to intermediate teams who want to: 
+e 
+e 
+e 
+e 
+Learn auth & database 
+Build real-time feeds 
+Explore role-based features 
+Add value to student-alumni networks
+BUILD
